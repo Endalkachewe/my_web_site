@@ -1,0 +1,114 @@
+.head
+{
+    margin-bottom: 0px;
+    background-color: blue;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    margin-bottom: 0px;
+    text-align: center;
+    color: white;
+}
+.mariage{
+    float: right;
+    margin: 7px 15px 10px 0; 
+    width: 10px;
+    height: 10p;
+}
+.mer{
+    display: flex;
+}
+.mer{
+    padding: 10px;
+    margin: 10px;
+}
+.mer img{
+width: 300px;
+height: auto;
+}
+.wed{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    background-color: brown;
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    width: 300px;
+    height: auto;
+}
+.m1{
+    display: inline-block;
+}
+.m2{
+    display: inline-block;
+    background-color: brown;
+    padding: 100px;
+    margin-bottom: 100px;
+}
+.m3{
+    display: inline-block;
+}
+.hany{
+    display: flex;
+}
+.hany img{
+    width: 400px;
+    height: auto;
+    margin: 10px;
+    padding: 10px;
+}
+.son{
+    display: flex;
+    border: 2px;
+    border-style: solid;
+    border-color: brown;
+}
+img{
+    width: 100%;
+}
+.endalk img{
+width: 400px;
+height: auto;
+}
+.endalk{
+    display: flex;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.son img{
+    width: 400px;
+    height: auto;
+    margin: 10px;
+    padding: 10px;
+    border-style: groove;
+
+}
+.endalk img{
+     margin-top: 0px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+footer{
+    margin-top: 20px;
+    padding-top: 25px;
+    padding-bottom: 25;
+    color: white;
+    text-align: center;
+    background-color: blue;
+}
+.bahiran{
+    margin-top: 0px;
+    padding: 15px;
+  text-align: center;
+}
+.bh{
+    border-style: solid;
+}
+.clearfix::after{
+    color: brown;
+
+}
